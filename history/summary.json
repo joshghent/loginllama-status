@@ -4,19 +4,19 @@
     "url": "https://loginllama.app",
     "icon": "https://icons.duckduckgo.com/ip3/loginllama.app.ico",
     "slug": "loginllama",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 157,
-    "timeDay": 157,
-    "timeWeek": 157,
-    "timeMonth": 157,
-    "timeYear": 157,
+    "status": "up",
+    "uptime": "78.92%",
+    "uptimeDay": "78.92%",
+    "uptimeWeek": "78.92%",
+    "uptimeMonth": "78.92%",
+    "uptimeYear": "78.92%",
+    "time": 177,
+    "timeDay": 177,
+    "timeWeek": 177,
+    "timeMonth": 177,
+    "timeYear": 177,
     "dailyMinutesDown": {
-      "2024-03-02": 0
+      "2024-03-02": 195
     }
   }
 ]
