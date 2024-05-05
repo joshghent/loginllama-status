@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/loginllama.app.ico",
     "slug": "loginllama",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.78%",
-    "time": 177,
-    "timeDay": 180,
-    "timeWeek": 134,
-    "timeMonth": 181,
-    "timeYear": 177,
+    "uptimeYear": "99.79%",
+    "time": 178,
+    "timeDay": 227,
+    "timeWeek": 142,
+    "timeMonth": 182,
+    "timeYear": 178,
     "dailyMinutesDown": {
       "2024-03-02": 195
     }
